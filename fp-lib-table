@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "sensor_watch_lightmeter")(type "KiCad")(uri "${KIPRJMOD}/sensor_watch_lightmeter.pretty")(options "")(descr ""))
+)
